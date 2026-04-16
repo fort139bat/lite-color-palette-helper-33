@@ -1,2 +1,11 @@
-# lite-color-palette-helper-33
-A simple color palette project
+# Color Palette
+
+A simple color palette project.
+
+Created by Charlie.
+
+## Getting Started
+
+```bash
+python color.py
+```
